@@ -1,0 +1,19 @@
+module mux4_tb;
+reg [3:0]i;
+reg [1:0]s;
+wire y;
+mux4_1 dut(i,s,y);
+initial
+begin
+i=4'b1100;
+s=2'b00;
+#100
+s=2'b01;
+#100
+s=2'b10;
+#100
+s=2'b11;
+//#100
+//$display("no value assigned");
+end
+endmodule

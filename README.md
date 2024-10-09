@@ -33,7 +33,7 @@ Generate Simulation Report Once the simulation is complete, you can generate a s
 Save and Document Results Save your project by clicking File → Save Project. Take screenshots of the waveform window and include them in your lab report to document your results. You can include the timing diagram from the simulation window showing the correct functionality of the 4:1 MUX across different select inputs and data inputs.
 
 Close the Simulation Once done, close the simulation by going to Simulation → "Close Simulation".
-~~~
+
 # Logic Diagram
 ![368836171-d4ab4bc3-12b0-44dc-8edb-9d586d8ba856](https://github.com/user-attachments/assets/22e17f8a-bc44-46a7-a604-fa0e1418c65a)
 
